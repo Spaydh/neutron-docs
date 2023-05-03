@@ -38,7 +38,7 @@ Get prepared before [the spawn time][1]!
 
 ## Validator Upgrade Instructions
 
-The neutron [proposal has been put on-chain][4]. Cosmos Hub validators are obligated to run Consumer Chain nodes. This document provides step by step instructions about how to do that.
+The neutron [proposal has been put on-chain][4]. If Neutron is launched, Cosmos Hub validators above the bottom 5% by voting power will be required to run Consumer Chain nodes. This document provides step by step instructions about how to do that.
 
 
 ## Pre-requisites

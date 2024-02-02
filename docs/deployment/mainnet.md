@@ -8,6 +8,12 @@
 | `axlWETH` | `ibc/A585C2D15DCD3B010849B453A2CFCB5E213208A5AB665691792684C26274304D` |
 | `USDC`    | `ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81` |
 
+### Token Factory Denoms
+
+| Symbol   | Denom                                                                               |
+|----------|-------------------------------------------------------------------------------------|
+| `wstETH` | `factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH` |
+
 ## Neutron DAO
 
 | Name                                   |                                                                                                                                                                                        | Source Code                                                                                                                                       |
@@ -66,9 +72,3 @@
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Lido Satellite (neutron-1) | [neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry](https://neutron.celat.one/neutron-1/contracts/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry) |
 | GMP Helper (Ethereum)      | [0x8A5fcd88B4aC70A1939955fAeA4E12bd0C7B1237](https://etherscan.io/address/0x8A5fcd88B4aC70A1939955fAeA4E12bd0C7B1237)                                                                  |
-
-### Denoms
-
-| Symbol   | Denom                                                                               |
-|----------|-------------------------------------------------------------------------------------|
-| `wstETH` | `factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH` |
